@@ -19,10 +19,14 @@ when you use reorderable list feature, some steps will be needed.
 
 see SampleData.cs
 
-### implement your ReorderableList
+### Implement your ReorderableList
 
 see SampleList.cs
 
-### implement your ReorderableListComponent and make Prefab
+![list](https://github.com/kodai100/Unity_ReorderableList/blob/master/Thumbnails/list.png)
+
+### Implement your ReorderableListComponent and make a Prefab
 
 see SampleListComponent.cs
+
+![component](https://github.com/kodai100/Unity_ReorderableList/blob/master/Thumbnails/component.png)
