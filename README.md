@@ -27,6 +27,6 @@ see SampleList.cs
 
 ### Implement your ReorderableListComponent and make a Prefab
 
-see SampleListComponent.cs
+see SampleListComponent.cs and SampleListComponent.prefab
 
 ![component](https://github.com/kodai100/Unity_ReorderableList/blob/master/Thumbnails/component.png)
